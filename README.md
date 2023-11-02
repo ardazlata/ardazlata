@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Analyst
 
 📫 Contact me: ardazlata@outlook.com
 
